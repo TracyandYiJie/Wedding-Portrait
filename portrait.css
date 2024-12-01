@@ -8,11 +8,11 @@
   /* Import the fonts (ensure paths or sources are correct) */
  @font-face {
       font-family: 'Biro Script';
-      src: url('fonts/Biro_Script_reduced.otf'); /* Replace with actual path */
+      src: url('Biro_Script_reduced.otf'); /* Replace with actual path */
   }
   @font-face {
       font-family: 'Lemon Tuesday';
-      src: url('fonts/Lemon\ Tuesday.otf'); /* Replace with actual path */
+      src: url('Lemon\ Tuesday.otf'); /* Replace with actual path */
   }
 
   html, body {
@@ -127,19 +127,19 @@ box-shadow: none; /* Optional: remove shadow when scrolled */
 }
 
 .venue-circle {
-  background-image: url("wedding graphics/500ppi/Venue.png");
+  background-image: url("Venue.png");
 }
 
 .schedule-circle {
-  background-image: url("wedding graphics/500ppi/Schedule.png");
+  background-image: url("Schedule.png");
 }
 
 .FAQ-circle {
-  background-image: url("wedding graphics/500ppi/Venue.png");
+  background-image: url("Venue.png");
 }
 
 .RSVP-circle {
-  background-image: url("wedding graphics/500ppi/RSVP header.png");
+  background-image: url("RSVP header.png");
 }
 
 /* Center image styling */
@@ -269,7 +269,7 @@ opacity: 0.5; /* Semi-transparent logo */
   display: flex;
   align-items: center; /* Vertically centers text */
   justify-content: center; /* Horizontally centers text */
-  background-image: url("wedding graphics/500ppi/Attire.png")
+  background-image: url("Attire.png")
 }
 
 /* Map Container */
@@ -324,7 +324,7 @@ iframe {
   display: flex;
   align-items: center; /* Vertically centers text */
   justify-content: center; /* Horizontally centers text */
-  background-image: url("wedding graphics/500ppi/RSVP Big.png")
+  background-image: url("RSVP Big.png")
 }
 
 .schedule-container {
@@ -705,7 +705,7 @@ h2 {
 
 .speech-bubble {
   position: relative;
-  background: url("wedding graphics/500ppi/Asset 42.png") no-repeat center;
+  background: url("Asset 42.png") no-repeat center;
   background-size: contain; /* Ensures the image fits within the element */
   padding: 10%; /* Adjust for text placement inside the bubble */
   text-align: center;
