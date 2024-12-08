@@ -320,6 +320,7 @@ iframe {
   position: relative; /* Ensures child elements like text stay positioned relative to the image */
   width: auto;
   height: 8vh;
+  z-index: 1000;
   background-size: contain; /* Ensures the image scales properly */
   background-position: center;
   background-repeat: no-repeat;
