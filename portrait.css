@@ -492,7 +492,7 @@ h2 {
 .image9 {
   position: absolute;
   opacity: 50%;
-  top: 80%;
+  top: 80vh;
   left: 20%;
   width: max(25vh, 25vw);
 }
@@ -500,7 +500,7 @@ h2 {
 .image10 {
   position: absolute;
   opacity: 50%;
-  top: 70%;
+  top: 70vh;
   left: 52%;
   width: max(12vh, 12vw);
 }
@@ -508,7 +508,7 @@ h2 {
 .image11 {
   position: absolute;
   opacity: 50%;
-  top: 60%;
+  top: 60vh;
   left: 45%;
   width: max(25vh, 25vw);
 }
@@ -516,7 +516,7 @@ h2 {
 .image12 {
   position: absolute;
   opacity: 50%;
-  top: 83%;
+  top: 83vh;
   left: 53%;
   width: max(25vh, 25vw);
 }
@@ -524,7 +524,7 @@ h2 {
 .image13 {
   position: absolute;
   opacity: 50%;
-  top: 78%;
+  top: 78vh;
   left: 35%;
   width: max(30vh, 30vw);
 }
@@ -532,7 +532,7 @@ h2 {
 .image14 {
   position: absolute;
   opacity: 50%;
-  top: 48%;
+  top: 48vh;
   left: 58%;
   width: max(20vh, 20vw);
 }
@@ -540,7 +540,7 @@ h2 {
 .image15 {
   position: absolute;
   opacity: 100%;
-  top: 164%;
+  top: 164vh;
   left: -8%;
   width: max(25vh, 25vw);
 }
@@ -548,7 +548,7 @@ h2 {
 .image16 {
   position: absolute;
   opacity: 100%;
-  top: 162%;
+  top: 162vh;
   left: 63%;
   width: max(18vh, 18vw);
 }
@@ -556,7 +556,7 @@ h2 {
 .image17 {
   position: absolute;
   opacity: 100%;
-  top: 186%;
+  top: 186vh;
   left: 0%;
   width: max(25vh, 25vw);
 }
@@ -564,7 +564,7 @@ h2 {
 .image18 {
   position: absolute;
   opacity: 100%;
-  top: 187%;
+  top: 187vh;
   left: 30%;
   width: max(35vh, 35vw);
 }
@@ -572,7 +572,7 @@ h2 {
 .image19 {
   position: absolute;
   opacity: 50%;
-  top: 225%;
+  top: 225vh;
   left: 0%;
   width: max(24vh, 24vw);
 }
@@ -580,7 +580,7 @@ h2 {
 .image20 {
   position: absolute;
   opacity: 50%;
-  top: 280%;
+  top: 280vh;
   left: -1%;
   width: max(25vh, 25vw);
 }
@@ -588,7 +588,7 @@ h2 {
 .image21 {
   position: absolute;
   opacity: 50%;
-  top: 230%;
+  top: 230vh;
   left: 50%;
   width: max(20vh, 20vw);
 }
@@ -596,7 +596,7 @@ h2 {
 .image22 {
   position: absolute;
   opacity: 50%;
-  top: 265%;
+  top: 265vh;
   left: 32%;
   width: max(35vh, 35vw);
 }
@@ -604,7 +604,7 @@ h2 {
 .image23 {
   position: absolute;
   opacity: 50%;
-  top: 314%;
+  top: 314vh;
   left: 3%;
   width: max(18vh, 18vw);
 }
@@ -612,7 +612,7 @@ h2 {
 .image24 {
   position: absolute;
   opacity: 50%;
-  top: 327%;
+  top: 327vh;
   left: 63%;
   width: max(14vh, 14vw);
 }
@@ -620,7 +620,7 @@ h2 {
 .image25 {
   position: absolute;
   opacity: 50%;
-  top: 337%;
+  top: 337vh;
   left: 7%;
   width: max(15vh, 15vw);
 }
@@ -628,7 +628,7 @@ h2 {
 .image26 {
   position: absolute;
   opacity: 50%;
-  top: 352%;
+  top: 352vh;
   left: 63%;
   width: max(14vh, 14vw);
 }
@@ -636,7 +636,7 @@ h2 {
 .image27 {
   position: absolute;
   opacity: 50%;
-  top: 364%;
+  top: 364vh;
   left: 14%;
   width: max(10vh, 10vw);
 }
@@ -644,7 +644,7 @@ h2 {
 .image28 {
   position: absolute;
   opacity: 50%;
-  top: 370%;
+  top: 370vh;
   left: 57%;
   width: max(16vh, 16vw);
 }
@@ -652,7 +652,7 @@ h2 {
 .image29 {
   position: absolute;
   opacity: 50%;
-  top: 381%;
+  top: 381vh;
   left: 7%;
   width: max(15vh, 15vw);
 }
@@ -660,7 +660,7 @@ h2 {
 .image30 {
   position: absolute;
   opacity: 50%;
-  top: 390%;
+  top: 390vh;
   left: 55%;
   width: max(30vh, 30vw);
 }
@@ -668,7 +668,7 @@ h2 {
 .image31 {
   position: absolute;
   opacity: 50%;
-  top: 400%;
+  top: 400vh;
   left: 7%;
   width: max(15vh, 15vw);
 }
@@ -676,7 +676,7 @@ h2 {
 .image34 {
   position: absolute;
   opacity: 100%;
-  top: 156%;
+  top: 156vh;
   left: 23%;
   width: max(25vh, 25vw);
   }
