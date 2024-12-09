@@ -436,7 +436,7 @@ h2 {
 .image2 {
   position: absolute;
   opacity: 50%;
-  top: 10%;
+  top: 10vh;
   left: -15%;
   width: max(35vh, 35vw);
 }
@@ -444,7 +444,7 @@ h2 {
 .image3 {
   position: absolute;
   opacity: 100%;
-  top: 8%;
+  top: 8vh;
   left: 20%;
   width: max(22vh, 22vw);
 }
@@ -452,7 +452,7 @@ h2 {
 .image4 {
   position: absolute;
   opacity: 50%;
-  top: 47%;
+  top: 47vh;
   left: 6%;
   width: max(30vh, 30vw);
 }
@@ -460,7 +460,7 @@ h2 {
 .image5 {
   position: absolute;
   opacity: 50%;
-  top: 5%;
+  top: 5vh;
   left: 25%;
   width: max(35vh, 35vw);
 }
@@ -468,7 +468,7 @@ h2 {
 .image6 {
   position: absolute;
   opacity: 50%;
-  top: 10%;
+  top: 10vh;
   left: 54%;
   width: max(22vh, 22vw);
 }
@@ -476,7 +476,7 @@ h2 {
 .image7 {
   position: absolute;
   opacity: 50%;
-  top: 60%;
+  top: 60vh;
   left: -3%;
   width: max(45vh, 45vw);
 }
@@ -484,7 +484,7 @@ h2 {
 .image8 {
   position: absolute;
   opacity: 50%;
-  top: 67%;
+  top: 67vh;
   left: -40%;
   width: max(45vh, 45vw);
 }
